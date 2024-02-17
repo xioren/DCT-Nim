@@ -1,2 +1,1 @@
-# dct-nim
-Pure Nim DCT
+Simple Pure Nim DCT
